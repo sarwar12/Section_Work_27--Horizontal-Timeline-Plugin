@@ -1,0 +1,2 @@
+### Horizontal Timeline plugin:
+	https://codyhouse.co/gem/horizontal-timeline
